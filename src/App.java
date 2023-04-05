@@ -18,11 +18,16 @@ public class App {
         
         // Statement with concatenation:
         System.out.println("Codecademy was founded in " + yearCodecademyWasFounded);
-        
+
         // ints ------------------------------------------------------
         // In Java whole numbers are stored in the 'int' primitive data type
         // its hold poristive numbers, negative numbers, and zero
         // they do not store fractions or numbers with decimals
         // The int data type allows values between -2,147,483,648 and 2,147,483,647, inclusive
+
+        // doubles ---------------------------------------------------
+        // the double primitive data type can hold decimals as well as very large and very small numbers
+        // The maximum value is 1.797,693,134,862,315,7 E+308
+        // The minimum value is 4.9 E-324
     }
 }
