@@ -69,3 +69,19 @@ public class Booleans {
 Create a variable called ```intsCanHoldDecimals```. Set it to ```true``` if the ```int type``` can hold a decimal number. Set it to ```false``` if the ```int type``` cannot do this.
 
 Print out your ```intsCanHoldDecimals``` variable.
+
+## Char
+
+```
+public class Char {
+	public static void main(String[] args) {   
+
+	}
+}
+```
+
+Create a variable called expectedGrade of type char.
+
+Fill it with a single letter, representing the grade you think you would get in a graded Java course where the grades A, B, C, D and F are possible.
+
+Print out your expectedGrade variable!
