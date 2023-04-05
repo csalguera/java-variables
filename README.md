@@ -39,3 +39,5 @@ public class CountComment {
 The file CountComment.java has a number of comments in it.
 
 In your head, count the number of comments. Then, inside the main() method, declare a variable called numComments that holds how many comments you counted.
+
+Print out numComments.
