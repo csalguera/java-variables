@@ -36,11 +36,11 @@ public class CountComment {
 // This is outside the class
 ```
 
-The file CountComment.java has a number of comments in it.
+The file ```CountComment.java``` has a number of comments in it.
 
-In your head, count the number of comments. Then, inside the main() method, declare a variable called numComments that holds how many comments you counted.
+In your head, count the number of comments. Then, inside the ```main() method```, declare a variable called ```numComments``` that holds how many comments you counted.
 
-Print out numComments.
+Print out ```numComments```.
 
 ## MarketShare
 
