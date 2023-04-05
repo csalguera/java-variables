@@ -29,5 +29,8 @@ public class App {
         // the double primitive data type can hold decimals as well as very large and very small numbers
         // The maximum value is 1.797,693,134,862,315,7 E+308
         // The minimum value is 4.9 E-324
+
+        // booleans --------------------------------------------------
+        // booleans reference one of two values: true or false
     }
 }
