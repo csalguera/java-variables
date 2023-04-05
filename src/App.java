@@ -32,5 +32,12 @@ public class App {
 
         // booleans --------------------------------------------------
         // booleans reference one of two values: true or false
+
+        // char ------------------------------------------------------
+        // the char data type can hold any character, like a letter, space, or punctuation mark
+        // it must be surrounded by single quotes
+        char grade = 'A';
+        char firstLetter = 'p';
+        char punctuation = '!';
     }
 }
