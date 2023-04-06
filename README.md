@@ -146,10 +146,10 @@ In the BadNames.java file, we declared variables with confusing names. Run the f
 
 Some of these variable names are illegal! Change the ones that are preventing the file from compiling.
 
-## Review
+## MyProfile
 
 ```
-public class Review {
+public class MyProfile {
   public static void main(String[] args) {
 
   }
