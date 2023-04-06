@@ -96,6 +96,6 @@ public class Song {
 }
 ```
 
-Create a variable called openingLyrics that has a value of: "Yesterday, all my troubles seemed so far away"
+Create a variable called ```openingLyrics``` that has a value of: ```Yesterday, all my troubles seemed so far away```
 
-Call System.out.println() to print out openingLyrics.
+Call ```System.out.println()``` to print out ```openingLyrics```.
