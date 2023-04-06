@@ -80,8 +80,19 @@ public class App {
         // Static Checking -------------------------------------------
         // Java has a static typing
         // Java programs won't compile if variables are assigned to a value of an incorrect type
-
+        
         // ex: int greeting = "Hello World"
         // int is strictly for numbers not for Strings
+
+        // Naming Conventions ----------------------------------------
+        String data = "Delilah";
+        String nameOfUser = "Delilah";
+        // the second variable is a more appropriate variable name
+
+        // variables can start with a valid letter, '$', or '_'
+        // No other symbols or numbers can begin the variable
+        // 1stPlace and *Gazer are not valid variable names
+
+        // Java variables utilize camelCase as their casing convention
     }
 }
