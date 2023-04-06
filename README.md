@@ -99,3 +99,29 @@ public class Song {
 Create a variable called ```openingLyrics``` that has a value of: ```Yesterday, all my troubles seemed so far away```
 
 Call ```System.out.println()``` to print out ```openingLyrics```.
+
+## Mess
+
+```
+public class Mess {
+	public static void main(String[] args) {   
+		String year = 2001;
+    double title = "Shrek";
+    int genre = 'C';
+    boolean runtime = 1.58;
+    char isPG = true;
+	}
+}
+```
+
+In the ```Mess.java``` file, we have declared a bunch of ```variables``` with the wrong ```type```. Try to ```compile``` the file using the command:
+
+```
+javac Mess.java
+```
+
+Change the ```types``` of the ```variables``` so that they correspond with the ```type``` of the assignment ```values```.
+
+For example, ```year``` is assigned ```2001```, so it should be an ```int```.
+
+```Compile``` the file again. Look at how it compiles with no errors now!
