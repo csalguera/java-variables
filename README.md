@@ -1,5 +1,17 @@
 ## Java Variables
 
+## Contents
+
+* [Creator](https://github.com/csalguera/java-variables#creator)
+* [CountComment](https://github.com/csalguera/java-variables#countcomment)
+* [MarketShare](https://github.com/csalguera/java-variables#marketshare)
+* [Booleans](https://github.com/csalguera/java-variables#booleans)
+* [Char](https://github.com/csalguera/java-variables#char)
+* [Song](https://github.com/csalguera/java-variables#song)
+* [Mess](https://github.com/csalguera/java-variables#mess)
+* [BadNames](https://github.com/csalguera/java-variables#badnames)
+* [MyProfile](https://github.com/csalguera/java-variables#myprofile)
+
 ## Creator
 
 ```
