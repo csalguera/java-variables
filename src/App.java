@@ -46,8 +46,8 @@ public class App {
 
         // There are two ways to create a String object:
         // using a String literal or calling the String class to create a new String object
+        
         // A String literal is any sequence of characters enclosed in double-quotes
-
         // Like primitive data types, we declare a String variable by specifying the type first:
         String greeting = "Hello World";
 
