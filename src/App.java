@@ -39,5 +39,42 @@ public class App {
         char grade = 'A';
         char firstLetter = 'p';
         char punctuation = '!';
+
+        // String ----------------------------------------------------
+        // Strings are objects instead of primitives
+        // objects have built-in behavior
+
+        // There are two ways to create a String object:
+        // using a String literal or calling the String class to create a new String object
+        // A String literal is any sequence of characters enclosed in double-quotes
+
+        // Like primitive data types, we declare a String variable by specifying the type first:
+        String greeting = "Hello World";
+
+        // we can also call the String class:
+        String salutations = new String("Hello World");
+        // there are subtle differences between the two
+
+        // Escape Sequences have an alternative use in Java print statements
+        // they are interpreted differently by the compiler than other characters
+        // they begin with the '\' symbol
+
+        // There are three escape sequences to be aware of:
+
+        // \" allows us to quotation marks to a String value:
+        System.out.println("\"Hello World\"");
+        // Prints: "Hello World"
+
+        // \\ allows us to place backslashes in our String
+        System.out.println("This is the backslash symbol: \\");
+        // Prints: This is the backslash symbol: \
+
+        // \n outputs a new line text
+        System.out.println("Hello\nGoodbye");
+        /*
+        Prints:
+        Hello
+        Goodbye
+        */
     }
 }

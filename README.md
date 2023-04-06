@@ -85,3 +85,17 @@ Create a variable called expectedGrade of type char.
 Fill it with a single letter, representing the grade you think you would get in a graded Java course where the grades A, B, C, D and F are possible.
 
 Print out your expectedGrade variable!
+
+## Song
+
+```
+public class Song {
+  public static void main(String[] args) {
+    
+  }
+}
+```
+
+Create a variable called openingLyrics that has a value of: "Yesterday, all my troubles seemed so far away"
+
+Call System.out.println() to print out openingLyrics.
