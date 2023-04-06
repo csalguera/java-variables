@@ -142,9 +142,9 @@ public class BadNames {
 }
 ```
 
-In the BadNames.java file, we declared variables with confusing names. Run the file and look at the error messages you get when trying to compile.
+In the ```BadNames.java``` file, we declared ```variables``` with confusing names. ```Run``` the file and look at the error messages you get when trying to ```compile```.
 
-Some of these variable names are illegal! Change the ones that are preventing the file from compiling.
+Some of these ```variable``` names are illegal! Change the ones that are preventing the file from compiling.
 
 ## MyProfile
 
@@ -156,14 +156,14 @@ public class MyProfile {
 }
 ```
 
-The file MyProfile.java contains a class that represents your hiring profile as presented to potential employers.
+The file ```MyProfile.java``` contains a ```class``` that represents your hiring profile as presented to potential employers.
 
-In the main() method, create a variable called name that holds your name, as a sequence of characters.
+In the ```main() method```, create a ```variable``` called ```name``` that holds your name, as a ```sequence of characters```.
 
-Create a variable called age that holds your age as a whole number.
+Create a ```variable``` called ```age``` that holds your age as a ```whole number```.
 
-Create a variable called desiredSalary that holds your desired salary per year to a precision of two decimal points.
+Create a ```variable``` called ```desiredSalary``` that holds your desired salary per year to a precision of two ```decimal``` points.
 
-Create a variable called gender that holds a single character, m (male), f (female), n (for none), or o (for other).
+Create a ```variable``` called ```gender``` that holds a ```single character```, m (male), f (female), n (for none), or o (for other).
 
-Create a variable called lookingForJob that holds whether or not you are currently open to job offers.
+Create a ```variable``` called ```lookingForJob``` that holds whether or not you are currently open to job offers.
